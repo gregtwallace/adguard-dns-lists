@@ -1,0 +1,27 @@
+# Misc unblocks for various issues I've run into
+#
+# Including all subdomains
+#
+# Allow Apple Private Relay
+# Needed to avoid issues on Apple devices
+@@||mask.icloud.com
+@@||mask-h2.icloud.com
+# FL Bar Member Benefits
+@@||memberbenefits.com
+# G2A
+@@||g2a.com^
+# Netgate / pfSense
+@@||netgate.com^
+#
+#
+# Specific subdomains only
+#
+# Universal Surveys
+@@|uofeedback.qualtrics.com
+# Chase Rewards
+@@|ultimaterewardspoints.chase.com
+# Postman Login
+@@|identity.postman.co^
+@@|identity.postman.com^
+# ISC2 links
+@@|cl.s12.exct.net^
