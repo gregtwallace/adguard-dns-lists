@@ -1,0 +1,6 @@
+## Allow certain domains to return private addresses
+#
+# Local Domain
+@@||gtw86.com^
+# Plex
+@@||plex.direct^
