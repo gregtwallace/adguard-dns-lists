@@ -1,0 +1,35 @@
+# Whitelist specifically for gaming and gaming related issues
+## Xbox Live
+# Xbox Accounts
+@@|clientconfig.passport.net^
+# Xbox Messaging
+@@|client-s.gateway.messenger.live.com^
+# Xbox Store
+@@|arc.msn.com^
+# Xbox EA Play
+@@|activity.windows.com^
+# Xbox Other confirmed (see: https://discourse.pi-hole.net/t/commonly-whitelisted-domains/212)
+@@|xbox.ipv6.microsoft.com^
+@@|device.auth.xboxlive.com^
+@@|www.msftncsi.com^
+@@|title.mgt.xboxlive.com^
+@@|xsts.auth.xboxlive.com^
+@@|title.auth.xboxlive.com^
+@@|ctldl.windowsupdate.com^
+@@|attestation.xboxlive.com^
+@@|xboxexperiencesprod.experimentation.xboxlive.com^
+@@|xflight.xboxlive.com^
+@@|cert.mgt.xboxlive.com^
+@@|xkms.xboxlive.com^
+@@|def-vef.xboxlive.com^
+@@|notify.xboxlive.com^
+@@|help.ui.xboxlive.com^
+@@|licensing.xboxlive.com^
+@@|eds.xboxlive.com^
+@@|www.xboxlive.com^
+@@|v10.vortex-win.data.microsoft.com^
+@@|settings-win.data.microsoft.com^
+# Xbox achievement related
+@@|v10.events.data.microsoft.com^
+@@|v20.events.data.microsoft.com^
+@@|vortex.data.microsoft.com^
