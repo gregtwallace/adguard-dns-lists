@@ -37,3 +37,5 @@
 @@|gsp1.apple.com^
 @@|www.apple.com^
 @@|www.appleiphonecell.com^
+@@|ipv6.msftconnecttest.com^
+@@|www.msftconnecttest.com^
