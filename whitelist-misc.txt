@@ -20,6 +20,8 @@
 @@|uofeedback.qualtrics.com
 # Chase Rewards
 @@|ultimaterewardspoints.chase.com
+# Citi Customer Satisfaction Surveys
+@@|citifeedback.qualtrics.com^
 # Postman Login
 @@|identity.postman.co^
 @@|identity.postman.com^
