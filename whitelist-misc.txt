@@ -16,6 +16,8 @@
 #
 # Specific subdomains only
 #
+# IP Geolocation information (useful for bogon lists)
+@@|ipgeolocation.io^
 # Universal Surveys
 @@|uofeedback.qualtrics.com
 # Chase Rewards
