@@ -6,6 +6,7 @@
 # Needed to avoid issues on Apple devices
 @@||mask.icloud.com^
 @@||mask-h2.icloud.com^
+@@||mask-api.icloud.com^
 # FL Bar Member Benefits
 @@||memberbenefits.com^
 # G2A
