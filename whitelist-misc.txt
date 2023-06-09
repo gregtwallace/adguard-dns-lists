@@ -44,3 +44,5 @@
 @@|www.appleiphonecell.com^
 @@|ipv6.msftconnecttest.com^
 @@|www.msftconnecttest.com^
+# AMD Support
+@@|consumerreturns.amd.com^
