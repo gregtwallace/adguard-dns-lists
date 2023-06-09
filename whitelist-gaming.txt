@@ -33,3 +33,7 @@
 @@|v10.events.data.microsoft.com^
 @@|v20.events.data.microsoft.com^
 @@|vortex.data.microsoft.com^
+#
+## EA Account / Login
+@@|js-agent.newrelic.com^
+@@|use.typekit.net^
