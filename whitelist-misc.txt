@@ -48,3 +48,5 @@
 @@|consumerreturns.amd.com^
 # Snapchat Account Management Login
 @@|accounts.snap.com^
+# LexisNexis
+@@|law.lexisnexis.com^
