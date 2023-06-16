@@ -46,3 +46,5 @@
 @@|www.msftconnecttest.com^
 # AMD Support
 @@|consumerreturns.amd.com^
+# Snapchat Account Management Login
+@@|accounts.snap.com^
