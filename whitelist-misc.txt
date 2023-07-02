@@ -52,3 +52,5 @@
 @@|law.lexisnexis.com^
 # Fandango Emails
 @@|links.fandango.com^
+# FL Bar
+@@|member.floridabar.org^
