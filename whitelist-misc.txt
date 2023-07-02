@@ -50,3 +50,5 @@
 @@|accounts.snap.com^
 # LexisNexis
 @@|law.lexisnexis.com^
+# Fandango Emails
+@@|links.fandango.com^
