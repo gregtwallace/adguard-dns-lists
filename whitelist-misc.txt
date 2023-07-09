@@ -54,3 +54,5 @@
 @@|links.fandango.com^
 # FL Bar
 @@|member.floridabar.org^
+# Reddit Email Links
+@@|click.redditmail.com^
