@@ -56,3 +56,5 @@
 @@|member.floridabar.org^
 # Reddit Email Links
 @@|click.redditmail.com^
+# Verizon Wireless
+@@||verizonwireless.com^
