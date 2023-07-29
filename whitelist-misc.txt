@@ -60,3 +60,5 @@
 @@||verizonwireless.com^
 # ID.me email verification
 @@|click.pstmrk.it^
+# Costco Links
+@@|data.digital.costco.com^
