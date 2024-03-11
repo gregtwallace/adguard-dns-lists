@@ -65,4 +65,4 @@
 # Costco Links
 @@|data.digital.costco.com^
 # GiftCard Rewards Redemption (webinars)
-@@||sdk.split.io^
+@@|sdk.split.io^
