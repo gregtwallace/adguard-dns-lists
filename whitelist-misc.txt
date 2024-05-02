@@ -68,3 +68,5 @@
 @@|sdk.split.io^
 # WebMD shouldn't be blocked
 @@|webmd.com^
+# Games - for Jewel
+@@|cdn.zone.msn.com^
