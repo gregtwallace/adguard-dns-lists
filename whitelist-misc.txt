@@ -70,3 +70,12 @@
 @@|webmd.com^
 # Games - for Jewel
 @@|cdn.zone.msn.com^
+# Progressive Emails
+@@|click.e.progressive.com^
+@@|app.progressive.com^
+# Hard Rock Bet
+@@||geocomply.com^
+# FCP Euro data
+@@||fcpeuro.com^
+# Consulting
+@@|candidate.tandymgroup.com^
