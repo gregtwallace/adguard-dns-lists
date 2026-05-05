@@ -2,14 +2,12 @@ name: Update DoH Whitelists
 
 on:
   workflow_dispatch:
-  push:
   schedule:
     - cron: '33 2 * * *'
 
 env:
   GITHUB_REF: ${{ github.ref }}
   PYTHON_VERSION: '3'
-  DOH_FILES:
 
 permissions:
   contents: write
