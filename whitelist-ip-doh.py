@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 # Script to output whitelisted IP addresses based on whitelisted domain names
 doh_ipv4_blocklist = 'https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/refs/heads/master/doh-ipv4.txt'
 doh_ipv6_blocklist = 'https://raw.githubusercontent.com/dibdot/DoH-IP-blocklists/refs/heads/master/doh-ipv6.txt'
