@@ -4,3 +4,5 @@
 @@||gtw86.com^
 # Plex
 @@||plex.direct^
+# Allow unqualified domain names to resolve (to private addresses)
+@@/^[a-zA-Z0-9]+$/
