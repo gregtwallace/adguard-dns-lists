@@ -1,0 +1,17 @@
+# Block Cloudflare ipv6 (https://www.cloudflare.com/ips-v6/)
+# ATT and Cloudflare have peering issues, particularly with ipv6, so force ipv4
+# However, exempt smokeping host
+#2400:cb00::/32
+/^2400:[Cc][Bb]00:/$client=~10.10.10.42
+#2606:4700::/32
+/^2606:4700:/$client=~10.10.10.42
+#2803:f800::/32
+/^2803:[Ff]800:/$client=~10.10.10.42
+#2405:b500::/32
+/^2405:[Bb]500:/$client=~10.10.10.42
+#2405:8100::/32
+/^2405:8100:/$client=~10.10.10.42
+#2a06:98c0::/29
+/^2[Aa]06:98[Cc][0-7]:/$client=~10.10.10.42
+#2c0f:f248::/32
+/^2[Cc]0[Ff]:[Ff]248:/$client=~10.10.10.42
