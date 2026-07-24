@@ -9,29 +9,13 @@
 @@||mask-api.icloud.com^
 #@@||doh.dns.apple.com^
 #@@||doh.dns.apple.com.v.aaplimg.com^
-# FL Bar Member Benefits
-@@||memberbenefits.com^
-# G2A
-@@||g2a.com^
-# Netgate / pfSense
-@@||netgate.com^
-#
-#
+
+
 # Specific subdomains only
-#
-# IP Geolocation information (useful for bogon lists)
-@@|ipgeolocation.io^
-# Universal Surveys
-@@|uofeedback.qualtrics.com^
-# Chase Rewards
-@@|ultimaterewardspoints.chase.com^
-# Citi Customer Satisfaction Surveys
-@@|citifeedback.qualtrics.com^
-# Postman Login
-@@|identity.postman.co^
-@@|identity.postman.com^
+
 # ISC2 links
 @@|cl.s12.exct.net^
+
 # Captive Portal Tests
 @@|connectivitycheck.android.com^
 @@|android.clients.google.com^
@@ -46,36 +30,3 @@
 @@|www.appleiphonecell.com^
 @@|ipv6.msftconnecttest.com^
 @@|www.msftconnecttest.com^
-# AMD Support
-@@|consumerreturns.amd.com^
-# Snapchat Account Management Login
-@@|accounts.snap.com^
-# LexisNexis
-@@|law.lexisnexis.com^
-# Fandango Emails
-@@|links.fandango.com^
-# FL Bar
-@@|member.floridabar.org^
-# Reddit Email Links
-@@|click.redditmail.com^
-# Verizon Wireless
-@@||verizonwireless.com^
-# ID.me email verification
-@@|click.pstmrk.it^
-# Costco Links
-@@|data.digital.costco.com^
-# GiftCard Rewards Redemption (webinars)
-@@|sdk.split.io^
-# WebMD shouldn't be blocked
-@@|webmd.com^
-# Games - for Jewel
-@@|cdn.zone.msn.com^
-# Progressive Emails
-@@|click.e.progressive.com^
-@@|app.progressive.com^
-# Hard Rock Bet
-@@||geocomply.com^
-# FCP Euro data
-@@||fcpeuro.com^
-# Consulting
-@@|candidate.tandymgroup.com^
