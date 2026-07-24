@@ -10,11 +10,13 @@
 #@@||doh.dns.apple.com^
 #@@||doh.dns.apple.com.v.aaplimg.com^
 
-
 # Specific subdomains only
 
 # ISC2 links
 @@|cl.s12.exct.net^
+
+# Permit DNS stamp calculator
+@@|dnscrypt.info^
 
 # Captive Portal Tests
 @@|connectivitycheck.android.com^
